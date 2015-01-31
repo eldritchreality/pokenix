@@ -1,0 +1,32 @@
+{
+"name" : "TwitterPokenix",
+"description" : "A twitter bot which mashes up pokmon and unix commands.",
+"keywords" : ["twitter", "bot", "pokemon", "commands"],
+"version" : "0.0.1",
+"author" : {
+"name" : "Eldritchreality",
+"email" : "eldritchreality@gmail.com"
+},
+"contributors" : [],
+"config" : {
+},
+"bin" : { "somebin" : "./main.js" },
+"scripts" : { 
+"test" : "./node_modules/.bin/mocha --reporter list",
+"start" : "node index.js"
+ },
+"repository" : {
+"type" : "git",
+"url" : "http://github.com/eldritchreality/pokenix.git"
+},
+"bugs" : "http://github.com/cdata/pokenix/issues",
+"dependencies" : {
+"mocha" : "2.1.x"
+},
+"licenses" : [
+{
+"type" : "MIT",
+"url" : "http://www.opensource.org/licenses/mit-license.php"
+}
+]
+} 
