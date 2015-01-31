@@ -21,7 +21,8 @@
 },
 "bugs" : "http://github.com/cdata/pokenix/issues",
 "dependencies" : {
-"mocha" : "2.1.x"
+"mocha" : "2.1.x",
+"chai" : "1.1.x"
 },
 "licenses" : [
 {
