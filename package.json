@@ -23,7 +23,8 @@
 "dependencies" : {
 "mocha" : "2.1.x",
 "chai" : "1.1.x",
-"gm" : "1.7.x"
+"gm" : "1.17.x",
+"q" : "1.1.2"
 },
 "licenses" : [
 {
