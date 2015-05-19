@@ -10,7 +10,7 @@
 "contributors" : [],
 "config" : {
 },
-"bin" : { "somebin" : "./main.js" },
+"bin" : { "somebin" : "./index.js" },
 "scripts" : { 
 "test" : "./node_modules/.bin/mocha --reporter list",
 "start" : "node index.js"
